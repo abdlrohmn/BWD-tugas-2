@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Landing page MVP untuk produk bisnis digital. Dibangun dengan Bootstrap 5 dan HTML5 Semantik untuk performa SEO maksimal.">
     
-    <title>TOKO MAJU CILACAP | BWD Sesi 2</title>
+     <title>Kepul | BWD Sesi 2</title>
 
     <!-- BOOTSTRAP 5 CDN: Mengimpor "Rak Etalase Dinamis" tanpa perlu menulis CSS manual -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -47,7 +47,7 @@
     <!-- SEMANTIC TAG: <nav> memberi tahu Google bahwa ini adalah menu navigasi utama -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="#"><i class="fa-solid fa-rocket text-primary"></i> TOKO MAJU CILACAP</a>
+            <a class="navbar-brand" href="#"><i class="fa-solid fa-rocket text-primary"></i> Kepul </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-toggle="target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -63,8 +63,8 @@
     <!-- SEMANTIC TAG: <header> sebagai area "Hero/Papan Reklame" utama web -->
     <header class="bg-primary text-white text-center py-5">
         <div class="container py-5">
-            <h1 class="display-4">TOKO MAJU CILACAP</h1>
-            <p class="lead mt-3">PERLENGKAPAN RUMAH TANGGA & KANTOR TERLENGKAP DENGAN HARGA TERJANGKAU.</p>
+            <h1 class="display-4">Kepul</h1>
+            <p class="lead mt-3">SISTEM PENGELOLAAN SAMPAH PRAKTIS DAN MENGUNTUNGKAN UNTUK LINGKUNGAN YANG LEBIH BAIK.</p>
             <a href="#produk" class="btn btn-light btn-lg mt-3 fw-bold text-primary">LIHAT SEMUA PRODUK</a>
         </div>
     </header>
@@ -76,7 +76,7 @@
         <section id="produk" class="container my-5 py-4">
             <div class="text-center mb-5">
                 <h2>Produk Unggulan Kami</h2>
-                <p class="text-muted">Perlengkapan Rumah Tangga & Kantor Terpercaya Di Cilacap, Tampilan Rapi di Semua Perangkat</p>
+                <p class="text-muted">SISTEM PENGELOLAAN SAMPAH PRAKTIS DAN MENGUNTUNGKAN UNTUK LINGKUNGAN YANG LEBIH BAIK.</p>
             </div>
 
             <!-- BOOTSTRAP GRID (Baris) -->
@@ -157,7 +157,7 @@
     <!-- SEMANTIC TAG: <footer> area penutup yang memberitahu bot ini adalah akhir dokumen -->
     <footer class="bg-dark text-light text-center py-4">
         <div class="container">
-            <p class="mb-0">&copy;Muhamad Jamali-049 2026 Cakrawala Digital Business. <strong>BWD04 - Sesi 2</strong>.</p>
+            <p class="mb-0">&copy;Abdul Rohman-051 2026 Cakrawala Digital Business. <strong>BWD04 - Sesi 2</strong>.</p>
         </div>
     </footer>
 
